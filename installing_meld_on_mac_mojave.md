@@ -1,4 +1,4 @@
-# Using Meld merging tool on Mac Mojave
+# installing Meld merging tool on Mac Mojave
 
 ```
 brew tap homebrew/cask
